@@ -19,7 +19,7 @@ export default function Bottle3DViewer() {
       <div className="relative flex-1 flex items-center justify-center">
         <div className="transition-transform duration-500" style={{ transform: `rotateY(${rotation}deg)` }}>
           <Image
-            src="/placeholder.svg?height=500&width=250"
+            src="/placeholder.svg"
             alt="Garrafa de Morro Azul Premium"
             width={250}
             height={500}
